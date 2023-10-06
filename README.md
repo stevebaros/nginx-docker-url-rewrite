@@ -1,2 +1,3 @@
 # nginx-docker-url-rewrite
-Help rewrite urls that 
+
+Add volumes to mount when composing vue applications
